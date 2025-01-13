@@ -6,7 +6,7 @@
 
 Este proyecto es un chatbot interactivo desarrollado con **React**, que permite a los usuarios mantener conversaciones en tiempo real con un asistente virtual. Incluye un diseño moderno con estilos personalizados en CSS, soporte para mensajes dinámicos y una funcionalidad de carga mientras el bot procesa las respuestas.
 
-[![Chatbot Screenshot](https://github.com/rodrigog898/Asistente-openai/blob/0c2163b8f7866f9b63d7196d6d4a466a626255cf/img/chatimage)
+![Chatbot Screenshot](https://github.com/rodrigog898/Asistente-openai/blob/0c2163b8f7866f9b63d7196d6d4a466a626255cf/img/chatimage)
 
 ---
 
