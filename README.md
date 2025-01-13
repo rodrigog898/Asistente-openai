@@ -6,7 +6,7 @@
 
 Este proyecto es un chatbot interactivo desarrollado con **React**, que permite a los usuarios mantener conversaciones en tiempo real con un asistente virtual. Incluye un diseño moderno con estilos personalizados en CSS, soporte para mensajes dinámicos y una funcionalidad de carga mientras el bot procesa las respuestas.
 
-![Chatbot Screenshot](./screenshot.png)
+![Chatbot Screenshot](./img/iScreen Shoter - Brave Browser - 250113180236.jpg)
 
 ---
 
